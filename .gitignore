@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+.idea
+*.iml
+/bin
+/pkg
+tilt_git
+tilt_modules
+kind-kubeconfig.yaml
